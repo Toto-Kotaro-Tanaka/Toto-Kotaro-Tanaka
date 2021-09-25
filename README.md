@@ -2,7 +2,7 @@
 <img src="https://github.com/Toto-Kotaro-Tanaka/Toto-Kotaro-Tanaka/blob/main/profile-toto-tanaka.gif" alt="Toto Tanaka Profile"/>
 
 ### Who am I? 🤔
-Junior Full Stack Software Developer🧑‍💻 with extensive experience in private education. A very honest, humble and flexible person🙂, happy to learn new tech skills, deal with any issues that may arise and work with others as part of a team👍. I really look forward to meeting new challenges in my new chosen career💪.
+Junior Full Stack Software Developer 🧑‍💻 with extensive experience in private education. A very honest, humble and flexible person 🙂, happy to learn new tech skills, deal with any issues that may arise and work with others as part of a team 👍. I really look forward to meeting new challenges in my new chosen career 💪.
 
 ### Courses I have taken so far 👨‍🏫
 - **[Code Institute](https://codeinstitute.net/) ⭕️ <Oct 20 - Aug 21> Diploma in Software Development with Distinction (NFQ Level 6)**
@@ -55,5 +55,5 @@ Junior Full Stack Software Developer🧑‍💻 with extensive experience in pri
 ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
 
-### 4 Projects & Portfolio website
+### 4 Projects & Portfolio
 👇👇👇👇👇👇👇👇👇👇
