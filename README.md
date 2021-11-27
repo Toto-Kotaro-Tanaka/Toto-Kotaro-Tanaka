@@ -10,6 +10,7 @@ Junior Full Stack Software Developer 🧑‍💻 with extensive experience in pr
 - Udemy: [The Complete 2020 Web Development Bootcamp](https://www.udemy.com/course/the-complete-web-development-bootcamp/)
 - Udemy: [The Complete JavaScript Course 2021: From Zero to Expert!](https://www.udemy.com/course/the-complete-javascript-course/)
 - Udemy: [100 Days of Code - The Complete Python Pro Bootcamp for 2021](https://www.udemy.com/course/100-days-of-code/)
+- ecollege: [Introduction to Programming using JavaScript](https://www.ecollege.ie/courses/introduction-to-programming-using-javascript/)
 
 ### Technologies & Skills I have learned so far 💻
 《 **Programming Languages** 》
